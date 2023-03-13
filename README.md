@@ -6,7 +6,7 @@
 
 ![Passos GitHub stats](https://github-readme-stats-woad-delta-32.vercel.app/api?username=EastBeng&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats-woad-delta-32.vercel.app/api/top-langs/?username=EastBeng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-woad-delta-32.vercel.app/api/top-langs/?username=EastBeng)](https://github.com/EastBeng/github-readme-stats)
 
 
 
