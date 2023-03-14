@@ -24,7 +24,6 @@
 [![Top Langs](https://github-readme-stats-woad-delta-32.vercel.app/api/top-langs/?username=EastBeng)](https://github.com/EastBeng/github-readme-stats)
 
 
-
 ### Tecnologias utlizadas no meu dia a dia
 
 <div style="dispplay: inline_block"><br/>
