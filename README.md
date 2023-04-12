@@ -4,7 +4,7 @@
 [![Instagarm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.passos27/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-souza-passos-4004a01b8/)
 
-![Passos GitHub stats](https://github-readme-stats-woad-delta-32.vercel.app/api?username=EastBeng&show_icons=true&theme=dracula)
+![Passos GitHub stats](https://github-readme-stats-krvj.vercel.app/api?username=EastBeng&show_icons=true&theme=dracula)
 
 ### Tecnologias já utlizadas
 
@@ -21,7 +21,7 @@
 </div><br/>
 
 
-[![Top Langs](https://github-readme-stats-woad-delta-32.vercel.app/api/top-langs/?username=EastBeng)](https://github.com/EastBeng/github-readme-stats)
+[![Top Langs](https://github-readme-stats-krvj.vercel.app/api/top-langs/?username=EastBeng)](https://github.com/EastBeng/github-readme-stats)
 
 
 ### Tecnologias utlizadas no meu dia a dia
