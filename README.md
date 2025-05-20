@@ -31,7 +31,7 @@
 </div><br/  >
 
 
-[![Top Langs](https://github-readme-stats-krvj.vercel.app/api/top-langs/?username=EastBeng)](https://github.com/EastBeng/github-readme-stats)
+[![Top Langs](https://github-readme-stats-krvj.vercel.app/api/top-langs/?username=Passos-Gabriel)](https://github.com/EastBeng/github-readme-stats)
 
 
 ### Tecnologias utlizadas no meu dia a dia
