@@ -25,7 +25,7 @@
 
 <p align="lef">
 <strong>Certifications</strong>
-<img src="https://miro.medium.com/v2/resize:fit:600/1*KjpRHQuaF0X0Kcb5lpWY_A.png">
+<img src="[https://miro.medium.com/v2/resize:fit:600/1*KjpRHQuaF0X0Kcb5lpWY_A.png](https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)">
 </p>
 
 <p align="left">
