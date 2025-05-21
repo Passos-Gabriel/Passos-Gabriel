@@ -17,7 +17,7 @@
 <br/><br/><br/><br/><br/><br/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img width="20%" src="https://skillicons.dev/icons?i=azure,aws,git,bash,docker,kubernetes,linux,powershell,py,terraform,windows" />
+    <imgsrc="https://skillicons.dev/icons?i=azure,aws,git,bash,docker,kubernetes,linux,powershell,py,terraform,windows" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 
 <p align="lef">
 <strong>Certifications</strong>
-<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+<img width="20%" height="20px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </p>
 
 <p align="left">
