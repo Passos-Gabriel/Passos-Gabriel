@@ -36,7 +36,7 @@
 
 <p align="lef">
 <strong>Certifications</strong><br>
-<img width="100px" height="100px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/00581419/7F257A87E124EB59?sharingId=CDACEE1826C214C6"><img width="100px" height="100px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
 </p>
 
 <p align="left">
