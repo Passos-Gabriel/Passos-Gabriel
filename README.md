@@ -5,6 +5,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passos-gabriel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div> 
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá, me chamo <strong>Arthur Zimmermann de Oliveira</strong>, sou formado em sistemas de informação na faculdade UCL Manguinhos, atualmente estou fazendo a pós graduação de Arquitetura de Sistemas com .Net na Fiap, e trabalho como <strong>Desenvolvedor .NET</strong>.<br>
+  
+</p>
+
 ### Tecnologias já utlizadas
 
 <div style="dispplay: inline_block"><br/>
@@ -52,6 +60,3 @@
     <a href="https://www.linkedin.com/in/gabriel-de-souza-passos-4004a01b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 </p>
-      
-[![Instagarm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.passos27/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-souza-passos-4004a01b8/)
