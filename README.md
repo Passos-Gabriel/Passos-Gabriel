@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo <strong>Gabriel de Souza Passos</strong>, tenho Bacharelado em Sistemas de Informação pela Faculdade UCL. Atualmente trabalho como <strong>Analista Cloud</strong> e estou dando foco em obter certificações na área.<br>
+  Olá, me chamo <strong>Gabriel de Souza Passos</strong>, tenho Bacharelado em Sistemas de <br/>Informação pela Faculdade UCL. Atualmente trabalho como <strong>Analista Cloud</strong> e<br> estou dando foco em obter certificações na área.<br>
   
 </p>
 <br/>
