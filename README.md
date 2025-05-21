@@ -16,6 +16,7 @@
 <br/>
 <br/><br/><br/><br/><br/><br/>
 <p align="left">
+  <strong>TechSkill used in my Role💻:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,git,bash,docker,kubernetes,linux,powershell,py,terraform,windows" />
   </a>
