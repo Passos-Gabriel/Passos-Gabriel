@@ -1,6 +1,10 @@
-
-### Olá! Eu sou o Gabriel Passos 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=red&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+de+Souza+Passos;I'm+23+years+old;I'm+from+Brazil;I'm+Cloud+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-krvj.vercel.app/api?username=Passos-Gabriel&show_icons=true&theme=dracula" alt="arthur zimmermann git status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzimm&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+</div> 
+
 [![Instagarm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.passos27/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-souza-passos-4004a01b8/)
 
