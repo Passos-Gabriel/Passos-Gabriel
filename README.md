@@ -15,12 +15,10 @@
 </p>
 <br/>
 <br/><br/><br/><br/><br/><br/>
-<p align="left">
- <strong>👨‍💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸: </strong>
-<div style= "display: flex; flex-wrap:wrap;">
-
-<code> [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)</code>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 <p align="left">
