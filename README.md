@@ -23,11 +23,6 @@
 
 <br>
 
-<p align="lef">
-<strong>Certifications</strong><br>
-<img width="50px" height="50px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
-</p>
-
 <p align="left">
   <strong>💌 Social Network:</strong> ⤵️
   <div align="center"> 
