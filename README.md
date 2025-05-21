@@ -17,7 +17,8 @@
 <p align="left">
  <strong>👨‍💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸: </strong>
 <div style= "display: flex; flex-wrap:wrap;">
-<code>[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,cs,dotnet,docker,mysql,postgres,sqlite,firebase)](https://skillicons.dev)</code>
+
+<code> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,cs,dotnet,docker,mysql,postgres,sqlite,firebase)](https://skillicons.dev)</code>
 </div>
 </p>
 
