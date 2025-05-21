@@ -18,9 +18,9 @@
 <br>
 
 <p align="left"> 
-  Olá, me chamo <strong>Gabriel de Souza Passos</strong>, tenho Bacharelado em Sistemas de Informação pela Faculdade UCL. Atualmente trabalho como <strong>Analista Cloud</strong> e estou dando foco em obter certificações na área.<br>
-  
+   Olá! Me chamo <strong>Gabriel de Souza Passos</strong>, sou bacharel em Sistemas de Informação pela Faculdade UCL. Atuo como <strong>Analista Cloud</strong>, com foco em automação, IaC(infraestrutura como código) e boas práticas em ambientes Azure. Atualmente, estou me especializando por meio de certificações e projetos práticos voltados à computação em nuvem.
 </p>
+
 <br/>
 <br/><br/><br/><br/><br/><br/>
 <p align="left">
