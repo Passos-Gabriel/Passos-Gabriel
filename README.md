@@ -21,10 +21,17 @@
   </a>
 </p>
 
+<br>
+
+<p align="lef">
+<strong>Certifications</strong>
+<img src="![image](https://github.com/user-attachments/assets/e52bd5b1-3a10-4712-9ed3-42409d36a772)">
+</p>
+
 <p align="left">
   <strong>💌 Social Network:</strong> ⤵️
   <div align="center"> 
-    <a href="https://www.instagram.com/gabriel.passos27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+    <a href="https://www.instagram.com/gabriel.passos27/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href = "mailto:bielpassos@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gabriel-de-souza-passos-4004a01b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
