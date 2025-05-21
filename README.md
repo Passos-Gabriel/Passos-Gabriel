@@ -17,7 +17,7 @@
 <br/><br/><br/><br/><br/><br/>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,git,bash,docker,kubernetes,linux,powershell,py,terraform,windows	" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,git,bash,docker,kubernetes,linux,powershell,py,terraform,windows" />
   </a>
 </p>
 
