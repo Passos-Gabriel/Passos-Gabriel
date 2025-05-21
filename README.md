@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+My+name+is+Gabriel+de+Souza+Passos;I'm+23+years+old;I'm+from+Brazil;I+work+as+a+Cloud+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+My+name+is+Gabriel+de+Souza+Passos;I'm+23+years+old;I'm+from+Brazil;I+work+as+a+Cloud+Analyst)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-krvj.vercel.app/api?username=Passos-Gabriel&show_icons=true&theme=dracula" alt="arthur zimmermann git status" /> 
