@@ -6,8 +6,16 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passos-gabriel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div> 
 
-<br/>
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="left"> 
   Olá, me chamo <strong>Gabriel de Souza Passos</strong>, tenho Bacharelado em Sistemas de <br/>Informação pela Faculdade UCL. Atualmente trabalho como <strong>Analista Cloud</strong> e<br> estou dando foco em obter certificações na área.<br>
@@ -17,6 +25,8 @@
 <br/><br/><br/><br/><br/><br/>
 <p align="left">
   <strong>TechSkill used in my Role💻:</strong>
+  <br>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,aws,git,bash,docker,kubernetes,linux,powershell,py,terraform,windows" />
   </a>
@@ -25,8 +35,8 @@
 <br>
 
 <p align="lef">
-<strong>Certifications</strong><br><br>
-<img width="70px" height="70px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
+<strong>Certifications</strong><br>
+<img width="100px" height="100px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </p>
 
 <p align="left">
