@@ -25,7 +25,7 @@
 
 <p align="lef">
 <strong>Certifications</strong>
-<img src="![image](https://github.com/user-attachments/assets/e52bd5b1-3a10-4712-9ed3-42409d36a772)">
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png">
 </p>
 
 <p align="left">
