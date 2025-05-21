@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<p align="left" margin="20px"> 
   Olá, me chamo <strong>Arthur Zimmermann de Oliveira</strong>, sou formado em sistemas de informação na faculdade UCL Manguinhos, atualmente estou fazendo a pós graduação de Arquitetura de Sistemas com .Net na Fiap, e trabalho como <strong>Desenvolvedor .NET</strong>.<br>
   
 </p>
