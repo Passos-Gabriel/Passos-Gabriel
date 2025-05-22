@@ -2,8 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A81DF7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+de+Souza+Passos;I'm+23+years+old;I'm+from+Brazil;I'm+Cloud+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-krvj.vercel.app/api?username=Passos-Gabriel&show_icons=true&theme=dracula" alt="Passos Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passos-gabriel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Passos-Gabriel&show_icons=true&theme=tokyonight&rank_icon=github" alt="Passos Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passos-Gabriel&layout=compact&theme=tokyonight&hide=php">
+  
+  <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passos-gabriel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" /> -->
 </div> 
 
 <br>
