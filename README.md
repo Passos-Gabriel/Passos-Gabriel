@@ -3,7 +3,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Passos-Gabriel&show_icons=true&theme=tokyonight&rank_icon=github" alt="Passos Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passos-Gabriel&layout=compact&theme=tokyonight&hide=php">
+  <img width="49%" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Passos-Gabriel&layout=compact&theme=tokyonight&hide=php">
   
   <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=passos-gabriel&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" /> -->
 </div> 
