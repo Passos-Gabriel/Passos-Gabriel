@@ -38,6 +38,7 @@
 <p align="lef">
 <strong>📝Certifications</strong><br><br>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/pt-br/00581419/7F257A87E124EB59?sharingId=CDACEE1826C214C6"><img width="100px" height="100px" src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+<a target="_blank" href="https://learn.microsoft.com/api/credentials/share/pt-br/00581419/D7515BCFE081D364?sharingId=CDACEE1826C214C6"><img width="100px" height="100px" src="https://consultabd.wordpress.com/wp-content/uploads/2020/08/img002_dp900.png"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/pt-br/00581419/13DF311B664D8B63?sharingId=CDACEE1826C214C6"><img width="100px" height="100px" src="https://wellingtonagapto.com.br/wp-content/uploads/2022/06/Certificacao-AZ-104.png"></a>
 </p>
 
